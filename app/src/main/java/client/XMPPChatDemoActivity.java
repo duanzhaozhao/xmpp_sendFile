@@ -41,7 +41,7 @@ import java.util.Collection;
 
 import client.myxmpp.R;
 
-
+//asmack-yxl-1.0 下载网址 http://www.eoeandroid.com/thread-186418-1-1.html
 public class XMPPChatDemoActivity extends Activity {
 
 	public static final String HOST = "10.8.2.234";
